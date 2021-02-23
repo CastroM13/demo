@@ -13,9 +13,8 @@
       "title": "Post 3"
     },
     {
-      "id_player": 1,
-      "name": "Matheus de Castro",
-      "user": "CastroM13"
+      "id": 4,
+      "title": "Post 4"
     },
   ],
   "comments": [
