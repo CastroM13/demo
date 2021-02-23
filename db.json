@@ -2,13 +2,4 @@
   "players": [
     { "id_player": 1, "name": "Matheus de Castro", "user": "CastroM13" },
   ],
-  "characters": [
-    {
-      "id_character": 1,
-      "name": "Shioru Shikairoku",
-      "race": "Elfo",
-      "class": "Mago",
-      "skills": 0
-    },
-  ]
 }
